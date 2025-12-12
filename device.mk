@@ -29,7 +29,7 @@ PRODUCT_PACKAGES += \
     android.hardware.audio.effect@7.0-impl:32 \
     android.hardware.bluetooth.audio-impl \
     audio.bluetooth.default \
-    audio.r_submix.default \
+    audio.r_submix.default:32 \
     audio.usb.default
 
 PRODUCT_COPY_FILES += \
